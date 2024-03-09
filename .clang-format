@@ -1,0 +1,6 @@
+---
+BasedOnStyle: Mozilla
+FixNamespaceComments: 'true'
+TabWidth: '2'
+
+...
